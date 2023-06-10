@@ -5,4 +5,5 @@ This project implements a deep learning pipeline for graph classification using 
 
 ## Sources Cited
 Fey, Matthias, et al. "Splinecnn: Fast geometric deep learning with continuous b-spline kernels." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.
+
 Bogo, Federica, et al. "FAUST: Dataset and evaluation for 3D mesh registration." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014.
